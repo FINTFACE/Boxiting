@@ -1,2 +1,6 @@
 # Boxiting
-Git을 학습하자
+
+## 컨트리뷰터 목록
+
+- fintface
+- kevinntech
